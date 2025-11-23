@@ -1,0 +1,7 @@
+{
+  "name": "Dictado Pro",
+  "description": "Una aplicación avanzada de dictado por voz a texto con teclado personalizado optimizado y reproducción de texto a voz utilizando Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
